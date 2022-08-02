@@ -1,0 +1,7 @@
+I:\_recursion\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+I:\_recursion\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+I:\_recursion\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+I:\_recursion\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+I:\_recursion\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\_recursion\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+I:\_recursion\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
